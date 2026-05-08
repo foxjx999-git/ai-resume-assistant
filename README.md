@@ -80,3 +80,9 @@ streamlit run app.py
 - 生成更正式的 Word 简历模板
 - 支持中英双语结构化输出
 - 支持更多岗位类型
+
+## 在线 Demo
+
+[打开 Streamlit App](https://ai-resume-assistant-project.streamlit.app/)
+
+地址：https://ai-resume-assistant-project.streamlit.app/
